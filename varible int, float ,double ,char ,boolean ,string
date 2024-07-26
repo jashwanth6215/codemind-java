@@ -1,0 +1,15 @@
+class Demo
+{
+    
+        public static void main(String[] args)
+        {
+            int age = 18;
+            String name = "Sagar";
+            double math = 99.8928 ;
+            float science= 97.6f;
+            boolean is_he_smart=true;
+            char prifix='J';
+            System.out.print(age+"\n"+name+"\n"+math+"\n"+science+"\n"+is_he_smart+"\n"+prifix);
+        }
+
+}
