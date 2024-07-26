@@ -1,0 +1,10 @@
+public class program
+{
+    public static void main(String[] args)
+    {
+        System.out.print("Shadow Monarch");
+        System.out.print("Jinwoo\n");
+        System.out.println("Arise");
+        System.out.print("Beru");
+    }
+}
